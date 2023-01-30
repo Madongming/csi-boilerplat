@@ -1,0 +1,5 @@
+# The goland IDE dir
+.idea/
+
+# binaray dir
+/bin
